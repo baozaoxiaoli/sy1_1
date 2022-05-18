@@ -1,2 +1,1 @@
-第1行
-第2行
+#include<stdio.h>
